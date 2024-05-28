@@ -1,0 +1,32 @@
+@charset "EUC-KR";
+
+/* body  {  background-color: powderblue;} */
+
+table {border-collapse: collapse;}
+th, td {
+  border-bottom: 1px solid #30d0d0;
+  border-top: 1px solid #30d0d0;
+  border-left: 1px solid powderblue;
+  border-right: 1px solid powderblue;
+}
+/* td {text-align: center;} */
+
+tr:nth-child(even) {background-color: rgba(4, 255, 4, 0.5);}
+tr:hover {background-color: pink;}
+h1    {color:#336699; font-family: verdana; font-size: 300%;}
+
+/* unvisited link */
+a:link {text-decoration: none;}
+
+/* visited link */
+a:visited {text-decoration: none; }
+
+/* mouse over link */
+a:hover {text-decoration: underline;}
+
+/* selected link */
+a:active {text-decoration: underline;}
+
+
+
+
