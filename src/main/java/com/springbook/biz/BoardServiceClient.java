@@ -32,6 +32,7 @@ public class BoardServiceClient {
 		// 5. Spring 컨테이너 종료
 		container.close();
 		// 깃 테스트  깃 테스트  깃 테스트  깃 테스트  깃 테스트  깃 테스트  깃 테스트 
+		// 아아아앙아ㅏㅇ
 
 	}
 
